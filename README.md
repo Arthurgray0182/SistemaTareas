@@ -1,3 +1,7 @@
+# integrantes de la actividad
+
+Miguel Gil y deivid guaje
+
 # SistemaTareas
 
 Un sistema sencillo de gestión de tareas desarrollado en Python para practicar el flujo de trabajo colaborativo con Git y GitHub.
